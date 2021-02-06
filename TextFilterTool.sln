@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextFilterTool", "TextFilterTool\TextFilterTool.csproj", "{856AB046-7D14-42D9-914D-10D04CCA160F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{856AB046-7D14-42D9-914D-10D04CCA160F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{856AB046-7D14-42D9-914D-10D04CCA160F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{856AB046-7D14-42D9-914D-10D04CCA160F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{856AB046-7D14-42D9-914D-10D04CCA160F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {898EB818-A804-41C7-A26A-9138D486D336}
+	EndGlobalSection
+EndGlobal
